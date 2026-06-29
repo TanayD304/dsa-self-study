@@ -6,8 +6,8 @@
 
 | Metric             | Progress    |
 | ------------------ | ----------- |
-| Sessions Completed | 0 / 139     |
-| Problems Solved    | 0           |
+| Sessions Completed | 1 / 139     |
+| Problems Solved    | 5           |
 | Revision Sessions  | 0           |
 | Current Session    | S001        |
 | Current Stage      | Foundations |
@@ -18,7 +18,7 @@
 
 | Stage               | Total | Completed | Status |
 | ------------------- | ----: | --------: | ------ |
-| Foundations         |     8 |           |        |
+| Foundations         |     8 |      1    |InProgress|
 | Arrays & Hashing    |    12 |           |        |
 | Two Pointers        |     6 |           |        |
 | Sliding Window      |     6 |           |        |
@@ -44,7 +44,7 @@
 
 | Session | Pattern             | Status | Confidence | Rev1 | Rev2 | Rev3 | Problems |
 | ------- | ------------------- | ------ | ---------- | ---- | ---- | ---- | -------- |
-| S001    | Complexity Analysis |        |            |      |      |      |          |
+| S001    | Complexity Analysis |  Done  |      Super      |   1st July   |   7th july    |     21st july    |     NA     |
 | S002    | STL                 |        |            |      |      |      |          |
 | S003    | Merge Sort          |        |            |      |      |      |          |
 | ...     | ...                 |        |            |      |      |      |          |
